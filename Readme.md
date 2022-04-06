@@ -13,6 +13,6 @@
 
 ### <p align="center">If you are interested join [OUR server](https://discord.gg/UcJaRvRt) </p>
 
-### <p align="center">Created by [PKD667](https://github.com/PKD667) </p>
+### <p align="center">The project has been moved to our new  [Repo](https://github.com/Soviet-Linux) </p>
 
 
